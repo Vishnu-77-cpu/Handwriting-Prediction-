@@ -117,7 +117,8 @@ Below are examples of handwritten digits from the dataset:
 
 The model correctly predicts digits from unseen handwritten images.
 
-<img width="1177" height="326" alt="image" src="https://github.com/user-attachments/assets/95dc9e7f-6754-4246-877a-f50c0f2eebaa" />
+<img width="1095" height="255" alt="image" src="https://github.com/user-attachments/assets/64b91161-3ff3-43c2-8bff-6bb0022e619d" />
+
 
 
 ---
